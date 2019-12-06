@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="562b5753-21ee-4b69-93ce-800bfd7f6251" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/samplecode/JsonFormats.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/samplecode/JsonFormats.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/samplecode/StartApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/samplecode/StartApp.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/samplecode/UserRegistry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/samplecode/UserRegistry.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +181,19 @@
       <option name="presentableId" value="Default" />
       <updated>1575014968174</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project Cleanup, edited README.md and .gitignore">
+      <created>1575640420631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575640420631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Cleanup, edited README.md and .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Cleanup, edited README.md and .gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575547822945">
@@ -196,6 +202,10 @@
     <state x="2128" y="290" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/37.27.1883.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575536951696" />
     <state x="241" y="310" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/37.27.1883.1053/1920.0.1920.1080@37.27.1883.1053" timestamp="1575547822945" />
     <state x="241" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/37.27.1883.1053@37.27.1883.1053" timestamp="1575238939353" />
+    <state x="565" y="149" width="817" height="807" key="CommitChangelistDialog2" timestamp="1575640419904">
+      <screen x="37" y="27" width="3803" height="1053" />
+    </state>
+    <state x="565" y="149" width="817" height="807" key="CommitChangelistDialog2/37.27.3803.1053@37.27.3803.1053" timestamp="1575640419904" />
     <state width="1874" height="286" key="GridCell.Tab.0.bottom" timestamp="1575564021053">
       <screen x="37" y="27" width="1883" height="1053" />
     </state>
@@ -232,6 +242,10 @@
       <screen x="37" y="27" width="1883" height="1053" />
     </state>
     <state width="498" height="446" key="SwitcherDM/37.27.1883.1053@37.27.1883.1053" timestamp="1575222859047" />
+    <state x="573" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575640448530">
+      <screen x="37" y="27" width="3803" height="1053" />
+    </state>
+    <state x="573" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/37.27.3803.1053@37.27.3803.1053" timestamp="1575640448530" />
     <state x="137" y="125" width="742" height="855" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1575222883674">
       <screen x="37" y="27" width="1883" height="1053" />
     </state>
