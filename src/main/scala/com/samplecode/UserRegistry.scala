@@ -1,6 +1,7 @@
 package com.samplecode
 
 import akka.actor.Actor
+
 import scala.collection.immutable
 
 case class User(name: String, age: Int, city: String)

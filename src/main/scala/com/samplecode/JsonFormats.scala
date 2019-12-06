@@ -1,6 +1,7 @@
 package com.samplecode
 
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+
 import spray.json.DefaultJsonProtocol
 
 trait JsonFormats extends DefaultJsonProtocol with SprayJsonSupport {

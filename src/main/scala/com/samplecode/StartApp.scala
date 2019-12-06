@@ -1,12 +1,13 @@
 package com.samplecode
 
+import scala.util.Failure
+import scala.util.Success
+
 import akka.actor.{Actor, ActorSystem, Props}
 import akka.http.scaladsl.Http
 import akka.http.scaladsl.server.Route
-import com.samplecode.StartApp.{startHttpServer, system}
 
-import scala.util.Failure
-import scala.util.Success
+import StartApp.{startHttpServer, system}
 
 object StartApp extends App {
 
