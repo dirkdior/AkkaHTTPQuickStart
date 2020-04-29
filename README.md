@@ -105,3 +105,5 @@ To retrieve all users:
 3. Send the request.
 
 The system should respond with a list of users in JSON format.
+
+It's really this easy :)
